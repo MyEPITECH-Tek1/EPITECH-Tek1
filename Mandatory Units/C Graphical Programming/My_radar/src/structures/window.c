@@ -18,7 +18,7 @@ win_t *create_win(unsigned int width, unsigned int height,
     if (!window)
         return (NULL);
     window->render = sfRenderWindow_create(mode, win_title,
-                                        sfClose | sfFullscreen, NULL);
+                                        sfClose, NULL);
     window->width = width;
     window->height = height;
     window->background = NULL;
