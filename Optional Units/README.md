@@ -5,3 +5,9 @@
 <div align="center">
   <img src="http://www.collegecetadhao.com/wp-content/uploads/2020/03/matys.jpg">
 </div>
+
+### <p align="justify">- DevOps: To be a good developer, we can't just know how to code, we have to learn how to deploy it, that's the point of the unit DevOps.</p>
+
+<div align="center">
+  <img src="https://www.qiminfo.ch/wp-content/uploads/2023/05/The-DevOps-Lifecycle.jpg">
+</div>
